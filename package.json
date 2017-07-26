@@ -1,0 +1,20 @@
+{
+  "name": "folkders-next",
+  "version": "1.0.1",
+  "description": "folkders app",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/developersoul/folkders-next.git",
+    "type": "git"
+  },
+  "author": "Alejandro Sanabria <alesanabriav@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^3.0.1-beta.19",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2",
+    "unfetch": "^3.0.0"
+  }
+}
